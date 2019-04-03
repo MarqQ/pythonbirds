@@ -30,3 +30,4 @@ if __name__ == '__main__':
     print(luciano.olhos)
     print(marcos.olhos)
     print(id(Pessoa.olhos), id(luciano.olhos), id(marcos.olhos))
+    #asd
